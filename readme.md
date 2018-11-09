@@ -1,4 +1,3 @@
-### 2018-01-24 新版本
 使用AdminLTE2模版开发,原来的Hadmin版本见分支[SPPanAdmin_Hadmin](https://github.com/whoismy8023/SPPanAdmin/tree/SPPanAdmin_Hadmin)
 
 ### 说明
